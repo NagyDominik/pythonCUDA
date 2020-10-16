@@ -1,0 +1,23 @@
+//Most valuable
+THE TUTORIAL: https://github.com/harrism/numba_examples/blob/master/mandelbrot_numba.ipynb
+Good Julia fractal tutorial: https://colab.research.google.com/github/evaneschneider/parallel-programming/blob/master/COMPASS_gpu_intro.ipynb#scrollTo=CjTLQArbRw6a
+Nvidia CUDA tutorial(simple): https://developer.nvidia.com/blog/numba-python-cuda-acceleration/
+Nvidia hardware documentation: https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#features-and-technical-specifications__feature-support-per-compute-capability
+
+//CUDA
+Tutorial: https://nyu-cds.github.io/python-numba/05-cuda/
+Overview: https://people.duke.edu/~ccc14/sta-663/CUDAPython.html
+Numba explanation: https://towardsdatascience.com/numba-weapon-of-mass-optimization-43cdeb76c7da
+
+//Python parallel
+Multiprocessing doc: https://docs.python.org/2/library/multiprocessing.html
+Multiprocessing parallel tutorial: 
+    https://datascienceplus.com/how-to-achieve-parallel-processing-in-python-programming/
+    https://www.machinelearningplus.com/python/parallel-processing-python/
+Python threading and multiprocessing: https://realpython.com/python-concurrency/
+Global Interpreter Lock: https://en.wikipedia.org/wiki/Global_interpreter_lock
+
+//Extras
+Different fractal functions: https://medium.com/@godhalakshmi632/a-simple-introduction-to-the-world-of-fractals-using-python-c8cb859bfd6d
+Github example: https://github.com/EskoSalaka/Fractals-py-cuda
+Julia fractal: https://dcato98.github.io/blog/jupyter/visualization/python/cuda/numpy/pytorch/video/2020/04/28/CUDA-Accelerated-Julia-Fractals.html
